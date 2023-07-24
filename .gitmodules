@@ -29,3 +29,6 @@
 	path = modules/prompt/external/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
 	shallow = true
+[submodule "contrib/fzf/external/fzf-prezto"]
+	path = contrib/fzf/external/fzf-prezto
+	url = https://github.com/gpanders/fzf-prezto.git
