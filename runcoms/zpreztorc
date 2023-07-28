@@ -48,7 +48,8 @@ zstyle ':prezto:load' pmodule \
   'fzf' \
   'gpg-local' \
   'aliases' \
-  'git'
+  'git' \
+  'chezmoi'
 
 #
 # Autosuggestions
