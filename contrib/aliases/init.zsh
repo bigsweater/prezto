@@ -27,4 +27,4 @@ alias uvim='brew upgrade neovim && nvim +PlugUpdate +TSUpdateSync +qa && nvim'
 alias ll='ls -Alhg'
 
 # SSH
-alias ssh='TERM=xterm-256color ssh'
+alias ssh='kitty +kitten ssh'
