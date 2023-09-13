@@ -51,7 +51,8 @@ zstyle ':prezto:load' pmodule \
   'git' \
   'chezmoi' \
   'nvm' \
-  'phpmon'
+  'phpmon' \
+  'composer'
 
 #
 # Autosuggestions
