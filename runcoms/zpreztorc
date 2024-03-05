@@ -53,7 +53,8 @@ zstyle ':prezto:load' pmodule \
   'nvm' \
   'phpmon' \
   'composer' \
-  'doctl'
+  'doctl' \
+  'pyenv'
 
 #
 # Autosuggestions
