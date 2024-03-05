@@ -11,6 +11,7 @@ alias pu='vendor/bin/phpunit'
 function puprofile() {
     pu --teamcity | grep duration | awk -F"'" '{print $2" "$4}' | sort -k 2 -nr | column -ts ' '
 }
+alias sail='[ -f sail ] && sh sail || sh vendor/bin/sail'
 
 # Python
 alias python='python3'
