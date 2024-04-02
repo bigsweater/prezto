@@ -14,8 +14,8 @@ function puprofile() {
 alias sail='[ -f sail ] && sh sail || sh vendor/bin/sail'
 
 # Python
-alias python='python3'
-alias pip='pip3'
+# alias python='python3'
+# alias pip='pip3'
 
 # Homebrew
 alias brewu='brew update && brew upgrade && brew cleanup && brew doctor'
